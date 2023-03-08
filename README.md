@@ -7,13 +7,6 @@
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=EthankSmith18" alt="EthankSmith18" /> </p> -->
 - [My Resume](https://drive.google.com/file/d/1BiLTKGoqhu4MeRwpf6Xa8925xlYAv74k/view?usp=share_link)
 
-
-## :computer: Technologies I Love
-* AI
-* Data Analytics
-* GIS
-* Frontend and Backend Web Development
-
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EthankSmith18&layout=compact">
 
  
@@ -46,6 +39,4 @@
  * My current project is a Summer Camp web based app and is built with a React frontend with a Spring backend.
  
 
-
-![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=EthankSmith18&show_icons=true&hide=[%22issues%22])
  
