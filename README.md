@@ -10,15 +10,15 @@
 <div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
 
 ## :computer: Technologies I Love
-* Flutter
-* Machine Learning
-* Data Science
+* AI
+* Data Analytics
+* GIS
 * Frontend and Backend Web Development
 
-<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=MarikIshtar007&layout=compact">
+<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EthankSmith18&layout=compact">
 
 ## Programming Languages
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
+<img src = 'https://github.com/EthankSmith18/EthankSmith18/blob/master/images/c-original.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/cpp.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/python2.png' height='30'/>  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/html.svg' width='30'/> <img src='https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/java.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/kotlin.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/css.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/js.svg' width='30'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/bootstrap.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/dart.svg' width='33'/> <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/php.svg' width='40'/>
  <img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/sql.svg' width='30'/> 
  
  ## Technologies I Use
@@ -27,34 +27,34 @@
  ## Who am I?
  ```python
  class WhoAmI:
- 	user = 'Haany Ali'
+ 	user = 'Ethan Smith'
 		current_work = 'Writing code'
 		hobbies = [
-				'Drawing',
-				'Watching Anime',
-				'Reading Sci-Fi Novels'
-				'Being up all Night chasing that ONE BUG...'
+				'Biking',
+				'Gardening',
+				'Reading about Science'
+				'Always Learning'
 			]
 	
 	def getCity():
-		return Hyderabad_India()
+		return Tucson_Arizona()
 	
 	def Ambitions():
-		LearnJapanese()
-		CreateSkyNet()
-		FinishMyNovel()
+		LearnSpanish()
+		BackpackGrandCanyon()
+		LearnToSurf()
 		# Assume 10 more awesome ambitions here  ;)
 	
  ```
  
 ## Current Works
- * Started learning MERN Stack !!
- * I'm currently working on 🔭 building **Mobile Apps using Flutter** and working up on polishing my skills 🌱 in **Competitive Programming**.
- * Getting Started with NodeJS and the MERN Stack!!
+ * Just graduated from Coding Dojo with a Certificate of Achievement for completing three full stacks in Python, Javascript, and Java!
+ * I'm currently working my way through Interview Camp, refining my algorithm skills.
+ * My current project is a Summer Camp web based app and is built with a React frontend with a Spring backend.
  
 ## Other Stuff
-  - :octocat: [My Resume](https://drive.google.com/file/d/1tFL1gHFPw3MXzfW98oQEFjs2jQSGiVjw/view?usp=share_link)
+  - :octocat: [My Resume](https://drive.google.com/file/d/1BiLTKGoqhu4MeRwpf6Xa8925xlYAv74k/view?usp=share_link)
   - If you have any suggestions to this README, feel free to pull up a request. And if you liked it, go ahead and use it for yourself.(P.S. Star it too!!:grimacing: )
 
-![Haany's github stats](https://github-readme-stats.vercel.app/api?username=MarikIshtar007&show_icons=true&hide=[%22issues%22])
+![Ethan's github stats](https://github-readme-stats.vercel.app/api?username=EthankSmith18&show_icons=true&hide=[%22issues%22])
  
