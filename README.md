@@ -2,12 +2,11 @@
 
 <h1>Welcome to my repository</h1> 
 
-<img src = 'https://github.com/MarikIshtar007/MarikIshtar007/blob/master/images/matrix.gif' alt = 'Awesome Matrix Code' align='right'/>
 
 [![Linkedin Badge](https://img.shields.io/badge/-ethksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethksmith/)](https://www.linkedin.com/in/ethksmith/) [![Gmail Badge](https://img.shields.io/badge/-ethanksmith-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ethanksmith@gmail.com)](mailto:ethanksmith@gmail.com)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=EthankSmith18" alt="EthankSmith18" /> </p> -->
 - [My Resume](https://drive.google.com/file/d/1BiLTKGoqhu4MeRwpf6Xa8925xlYAv74k/view?usp=share_link)
-<div style="text-align: right">There are 10 types of people in the world. Those who get Binary and those who don't.. </div>
+
 
 ## :computer: Technologies I Love
 * AI
