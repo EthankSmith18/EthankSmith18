@@ -1,6 +1,6 @@
 ## Hey, Ethan here!
 
-<h1>Welcome to my repository</h1> 
+<h1>Welcome to my repository!</h1> 
 
 
 [![Linkedin Badge](https://img.shields.io/badge/-ethksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethksmith/)](https://www.linkedin.com/in/ethksmith/)
