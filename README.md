@@ -5,7 +5,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-ethksmith-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/ethksmith/)](https://www.linkedin.com/in/ethksmith/)
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=EthankSmith18" alt="EthankSmith18" /> </p> -->
-- [My Resume](https://drive.google.com/file/d/1BiLTKGoqhu4MeRwpf6Xa8925xlYAv74k/view?usp=share_link)
+
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EthankSmith18&layout=compact">
 
