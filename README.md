@@ -23,7 +23,7 @@
 			]
 	
 	def getCity():
-		return Tucson_Arizona()
+		return Seattle_Washington()
 	
 	def Ambitions():
 		LearnSpanish()
@@ -33,10 +33,7 @@
 	
  ```
  
-## Current Works
- * Just graduated from Coding Dojo with a Certificate of Achievement for completing three full stacks in Python, Javascript, and Java!
- * I'm currently working my way through Interview Camp, refining my algorithm skills.
- * My current project is a Summer Camp web based app and is built with a React frontend with a Spring backend.
+
  
 
  
