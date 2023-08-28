@@ -9,30 +9,6 @@
 
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=EthankSmith18&layout=compact">
 
- 
- ## Who am I?
- ```python
- class WhoAmI:
- 	user = 'Ethan Smith'
-		current_work = 'Writing code'
-		hobbies = [
-				'Biking',
-				'Gardening',
-				'Reading about Science'
-				'Always Learning'
-			]
-	
-	def getCity():
-		return Seattle_Washington()
-	
-	def Ambitions():
-		LearnSpanish()
-		BackpackGrandCanyon()
-		LearnToSurf()
-		# Assume 10 more awesome ambitions here  ;)
-	
- ```
- 
 
  
 
